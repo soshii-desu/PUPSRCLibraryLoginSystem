@@ -1,1 +1,1 @@
-# PUPSRCLibraryLoginSystem
+# The library log-in system we create is for the school library focusing on the student's entry time or time in. It allows students to time in and specify their purpose of visit which will improve the login records. The system also has a user-oriented feature to download selected books from the available e-books in the library system making it easy and quick to use. In short,  the library login system is a program to make it easier for students to log in to the library. They can simply log in using the system . 
